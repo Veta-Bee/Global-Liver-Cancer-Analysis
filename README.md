@@ -1,3 +1,5 @@
+The following link provides access to the Global Liver Cancer Analysis Report. This analysis highlights key factors associated with liver cancer, such as smoking and alcohol intake, and examines trends in incidence, mortality, and survival rates across different regions and populations.
+https://drive.google.com/drive/folders/1RGOVnpW6lw8T2lcVyVqX7iQ1SfYx7AVy?usp=sharing) 
 # Global-Liver-Cancer-Analysis
 
 ![image](https://github.com/user-attachments/assets/997646d5-4919-435a-9eb8-3a82366c72d3)
